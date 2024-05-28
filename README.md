@@ -70,7 +70,7 @@ Newsletter Demo - http://grapesjs.com/demo-newsletter-editor.html<br/>
   * CDNJS (replace `X.X.X` with the current version)
     * `https://cdnjs.cloudflare.com/ajax/libs/grapesjs/X.X.X/grapes.min.js`
     * `https://cdnjs.cloudflare.com/ajax/libs/grapesjs/X.X.X/css/grapes.min.css`
-* NPM
+* NPM 
   * `npm i grapesjs`
 * GIT
   * `git clone https://github.com/GrapesJS/grapesjs.git`

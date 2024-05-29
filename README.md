@@ -109,7 +109,7 @@ Clone the repository and install all the necessary dependencies (`yarn` is highl
 $ git clone https://github.com/GrapesJS/grapesjs.git
 $ cd grapesjs
 $ yarn
-```
+``` 
 
 Start the dev server
 
